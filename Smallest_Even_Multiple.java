@@ -4,3 +4,4 @@ class Solution {
         return n*2;
     }
 }
+
